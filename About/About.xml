@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-  <name>Asperger's-1.1</name>
+  <name>Autism Spectrum 1.1</name>
   <author>troopersmith1 - P-90-For-Retail</author>
   <supportedVersions>
   <li>1.0</li>
@@ -9,10 +9,10 @@
   </supportedVersions>
   <packageId>troopersmith1.Aspergers</packageId>
   <description>
-    Adds Asperger's Syndrome to the Rim. It is an uncommon spectrum of traits which alters colonists stats.
-    Ever wondered why your pawn always plays chess by themselves? Why they constantly repeat the same activities? Maybe they have Asperger's.
+    Adds Autism to the Rim. It is an uncommon spectrum of traits which alters colonists stats.
+    Ever wondered why your pawn always plays chess by themselves? Why they constantly repeat the same activities? Maybe they have Autism.
 
-    This mod adds the trait "Asperger's Syndrome" with stats:
+    This mod adds the trait "Autism" with stats:
 
 
         -socialFightChanceFactor muliplied by 2

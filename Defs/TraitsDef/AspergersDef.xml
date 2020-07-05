@@ -7,7 +7,7 @@
     <degreeDatas>
       <!--First degree-->
       <li>
-        <label>Asperger Syndrome</label>
+        <label>Autism</label>
         <description>{PAWN_nameDef} is aneurotypical. {PAWN_pronoun} has difficulites socialising with people, is sensitive to overstimuli, and requires less sleep. {PAWN_nameDef} enjoys sticking to what {PAWN_pronoun} knows best and is psychically immune.</description>
         <degree>0</degree>
         <socialFightChanceFactor>2</socialFightChanceFactor>
@@ -31,7 +31,7 @@
       </li>
       <!--Second degree-->
       <li>
-        <label>Asperger Syndrome</label>
+        <label>Autism</label>
         <description>{PAWN_nameDef} is aneurotypical. {PAWN_pronoun} has difficulites socialising with people and would rather work on their art skills. {PAWN_nameDef} enjoys sticking to what {PAWN_pronoun} knows best and is psychically immune.</description>
         <degree>1</degree>
         <statOffsets>
@@ -51,7 +51,7 @@
       </li>
       <!--Thrid degree-->
       <li>
-        <label>Asperger Syndrome</label>
+        <label>Autism</label>
         <description>{PAWN_nameDef} is aneurotypical. {PAWN_pronoun} has difficulites socialising with people and is sensitive to overstimuli, {PAWN_pronoun} has overcome {PAWN_possessive} social difficulites recently . {PAWN_nameDef} enjoys sticking to what {PAWN_pronoun} knows best and is psychically immune.</description>
         <degree>2</degree>
         <statOffsets>
@@ -71,8 +71,8 @@
       </li>
       <!--Fourth degree-->
       <li>
-        <label>PDD-NOS</label>
-        <description>{PAWN_nameDef} is very aneurotypical. {PAWN_pronoun} has much difficulty socialising with people (possibly due to {PAWN_pronoun}'s slighty out-of-tune voice), would rather spend all day making cowboy hats and is sensitive to overstimuli. {PAWN_nameDef} enjoys sticking to what {PAWN_pronoun} knows best and is psychically immune.</description>
+        <label>Autism</label>
+        <description>{PAWN_nameDef} is very aneurotypical. {PAWN_pronoun} has much difficulty socialising with people, is sensitive to overstimuli, and would rather spend all day making cowboy hats. {PAWN_nameDef} enjoys sticking to what {PAWN_pronoun} knows best and is psychically immune.</description>
         <degree>3</degree>
         <statOffsets>
           <PsychicSensitivity>-1</PsychicSensitivity>

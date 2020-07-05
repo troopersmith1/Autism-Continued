@@ -4,10 +4,10 @@ The Rimworld aneurotypical mod
 
 <b>Description</b>
 
-Adds Asperger's Syndrome to the Rim. It is an uncommon spectrum of traits which alters colonists stats.
-Ever wondered why your pawn always plays chess by themselves? Why they constantly repeat the same activities? Maybe they have Asperger's.
+Adds Autism to the Rim. It is an uncommon spectrum of traits which alters colonists stats.
+Ever wondered why your pawn always plays chess by themselves? Why they constantly repeat the same activities? Maybe they have Autism.
 
-This mod adds the trait "Asperger's Syndrome" with stats:
+This mod adds the trait "Autism" with stats:
 
     -socialFightChanceFactor muliplied by 2
     -PsychicSensitivity Reduced by 100%
