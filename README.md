@@ -41,7 +41,7 @@ This mod is a work in progress and I may add new features.
 
 <b>Notice</b>
 
-I aim not to glorify Asperger's or to denounce it, but to implement it into a video game which must be balanced. I make generalisations with the symptoms of being aneurotypical to make the game experience flow more easily. If you have a issue with anything in this mod, just report an issue and I'll work on it.
+I aim not to glorify Autism or to denounce it, but to implement it into a video game which must be balanced. I make generalisations with the symptoms of being aneurotypical to make the game experience flow more easily. If you have a issue with anything in this mod, just report an issue and I'll work on it.
 
 =>(P-90-For-Retail)&lt;=
 
